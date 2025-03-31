@@ -1,4 +1,4 @@
-## Hi there 👋
+## your nose leads you to the source!
 
 <!--
 **ice-ink/ice-ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
